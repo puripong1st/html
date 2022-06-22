@@ -1,0 +1,59 @@
+body 
+{
+    font-family: 'Mitr', sans-serif;
+}
+#menu-main { 
+    color: lightgray;
+    font-weight: bolder;
+    text-decoration: none;
+    background-color: blue;
+    border: 3px solid lightblue;
+    padding: 5px 15px 5px 15px;
+    margin-right: 10px;
+
+}
+nav {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.img-circle {
+    border-radius: 50%;
+    width: 128px;
+    height: 128px;
+}
+.text-main
+{
+    font-family: Mitr;
+    max-width: 1069px;
+    margin: 40px auto 20px;
+}
+
+.text-main .floating-image
+{
+    max-width: 560px;
+}
+.text-main .floating-video
+{
+    max-width: 1069px;
+}
+.text-main .floating-image.right
+{
+    float:right;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+.text-main .floating-video.hi
+{
+    float:right;
+    margin-top: 0px;
+}
+.text-main .floating-video.h3
+{
+    float:right;
+    margin-top: 30px;
+}
+.text-main .floating-video.hi2
+{
+    float:center;
+    margin-top: 500px;
+}
